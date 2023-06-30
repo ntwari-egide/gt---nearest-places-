@@ -1,5 +1,5 @@
 
-# Nearest places, KD-Tree (you can costomize it 😂) - TS
+# Nearest places, KD-Tree (it's customizable 🤓) - TS
 
 This project demonstrates the usage of a KD-Tree data structure to store African countries' capital cities along with their coordinates. It allows you to find locations within a specified radius from a specific location.
 
